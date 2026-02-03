@@ -8,3 +8,4 @@ I specialize in funnel and cohort analysis to help marketing and operations team
 📊 Focus Areas: Data Cleaning, EDA, Funnels & Cohorts, Data Quality
 🌍 Languages: Spanish (Native), English (C1)
 
+Contact me!: juanperez-o@hotmail.com
