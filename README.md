@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-<!--
-**juanmanuel-p/juanmanuel-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst with strong proficiency in SQL and Python (pandas), focused on transforming data into actionable insights that support data-driven decision-making. I have experience in data cleaning, exploratory data analysis (EDA), and ensuring high data quality.
 
-Here are some ideas to get you started:
+I specialize in funnel and cohort analysis to help marketing and operations teams understand user behavior and performance. I’m known for communicating results clearly with a strong analytical mindset.
 
-- 🔭 I’m a Data Analyst passionate about transforming data into meaningful insights that support smarter business decisions. I work with SQL, Python (pandas), and Excel to clean, analyze, and explore data, ensuring high quality and clarity. I have experience with funnel and cohort analysis for marketing and operations teams, and I enjoy communicating results in a clear, analytical way. Native Spanish speaker with C1 English.
-- 💬 Ask me about Music and Fantasy TV shows, movies, books.
-- 📫 How to reach me: juanperez-o@hotmail.com
+💻 Technical Skills: SQL (Advanced), Python (pandas), Excel / Google Sheets
+📊 Focus Areas: Data Cleaning, EDA, Funnels & Cohorts, Data Quality
+🌍 Languages: Spanish (Native), English (C1)
 
